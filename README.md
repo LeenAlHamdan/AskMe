@@ -69,7 +69,8 @@ If you log in as an admin, there will be additional Screens designated for the a
 ### Management of Fields and specializations
 Fields and specializations can be viewed, modified, deleted, or new items added.
 
-<img src="https://github.com/LeenAlHamdan/AskMe/assets/77418575/15b41e7f-5107-4e37-8f2e-47cce1a04935"  height="400" />                                                       <img src="https://github.com/LeenAlHamdan/AskMe/assets/77418575/b2cae14c-46ad-461d-848b-aa8aef874648"  height="400" />
+<img src="https://github.com/LeenAlHamdan/AskMe/assets/77418575/15b41e7f-5107-4e37-8f2e-47cce1a04935"  height="400" />
+<img src="https://github.com/LeenAlHamdan/AskMe/assets/77418575/b2cae14c-46ad-461d-848b-aa8aef874648"  height="400" />
 
 ## The Quick Access Menu
 <img src="https://github.com/LeenAlHamdan/AskMe/assets/77418575/2bf30db4-4cf5-426d-bbe7-b3c0ec9e709c"  height="400" />
