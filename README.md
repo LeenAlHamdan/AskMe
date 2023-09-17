@@ -11,6 +11,7 @@ The App is available in two languases English and Arabic.
 
 ## Splash Screens
 Appears to the user when running the application while loading data.
+
 <img src="https://github.com/LeenAlHamdan/AskMe/assets/77418575/9e0204f1-133e-4024-bfdc-59971bee16bc"  height="400" />
 
 ## Authentication Screens
@@ -75,4 +76,5 @@ Fields and specializations can be viewed, modified, deleted, or new items added.
 
 ## Guest status
 The guest can browse the application, but in a restricted manner. The guest cannot rate or follow, for example. When the guest presses “Follow,” we remind him to log in.
+
 <img src="https://github.com/LeenAlHamdan/AskMe/assets/77418575/7c86ae0d-bb2a-4f90-a309-0ec4fae173f3"  height="400" />
