@@ -19,7 +19,7 @@ Appears to the user when running the application while loading data.
 <img src="https://github.com/LeenAlHamdan/AskMe/assets/77418575/4d13d79d-6e64-4758-a19b-2738c0e6f5cf"  height="400" />
 
 ### Sign Up Screen
-<img src="https://github.com/LeenAlHamdan/AskMe/assets/77418575/219b2  ed1-88c2-4353-b40e-bce09b802e2a"  height="400" />
+<img src="https://github.com/LeenAlHamdan/AskMe/assets/77418575/219b2ed1-88c2-4353-b40e-bce09b802e2a"  height="400" />
 
 ## Main Screens
 After installing the application and downloading the data, the main screen will appear for the user, and according to the language of his device, the default language of the application will be formed, with the possibility of changing the language later on the profile screen.
